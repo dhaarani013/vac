@@ -2,7 +2,7 @@
 This repository contains a basic HTML form styled with CSS and integrated with JavaScript to display submitted input data. This was completed as part of my Value Added Course assignment.
 ---
 ## Overview
-The project includes:
+This assignment includes:
 - A **student registration form** with input fields for:
   - Name
   - Email
